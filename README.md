@@ -1,2 +1,2 @@
 # cms
-Content Management System
+Multi-Site Content Management System
